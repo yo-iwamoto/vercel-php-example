@@ -1,0 +1,11 @@
+{
+    "name": "yoiwamoto/vercel-php",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "api/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
